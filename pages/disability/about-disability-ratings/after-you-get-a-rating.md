@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
-title: What to Expect after You Get a Disability Rating
-display_title: After You Get a Rating
+title: What to expect after you get a disability rating
+display_title: After you get a rating
 description: Find out when you'll receive your first VA disability check and what to expect after you get a disability rating for a service-connected condition.
 plainlanguage: 11-02-16 certified in compliance with the Plain Writing Act
 template: detail-page
@@ -60,15 +60,15 @@ If you disagree with your disability rating, you can file an appeal. You’ll ne
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-- **For Health Care:** If you served on active duty and didn't receive a dishonorable discharge, you may be able to get VA health care. This includes access to VA doctors and care, plus medical equipment, prosthetics, and prescriptions. <br>
+- **For health care:** If you served on active duty and didn't receive a dishonorable discharge, you may be able to get VA health care. This includes access to VA doctors and care, plus medical equipment, prosthetics, and prescriptions. <br>
 [Apply for VA health care](/health-care/how-to-apply/).
-- **For Life Insurance:** If you’re in good health other than your disability caused by service in the military, you can buy Service-Disabled Veterans’ Insurance (S-DVI)—a government life insurance policy.<br>
+- **For life insurance:** If you’re in good health other than your disability caused by service in the military, you can buy Service-Disabled Veterans’ Insurance (S-DVI)—a government life insurance policy.<br>
 [Apply for S-DVI online](https://www.benefits.va.gov/insurance/s-dvi.asp). Or, call <a href="tel:+18006698477">1-800-669-8477</a>, Monday through Friday, 8:00 a.m. to 6:00 p.m. (<abbr title="eastern time">ET</abbr>).
-- **For Education Benefits:** You can get VA support for college or job training under special programs. Or, talk with a VA education counselor to find out what benefits you may be able to get. <br>
+- **For education benefits:** You can get VA support for college or job training under special programs. Or, talk with a VA education counselor to find out what benefits you may be able to get. <br>
 [Learn about education benefits](/education/).
-- **For Dependent Benefits:** If you’re 30% or more disabled due to a disability caused by service in the military, you can get financial support and benefits for your qualified dependents.<br>
+- **For dependent benefits:** If you’re 30% or more disabled due to a disability caused by service in the military, you can get financial support and benefits for your qualified dependents.<br>
 [Learn more about adding dependents to your disability benefits](/disability/add-remove-dependent/).
-- **For Other Benefits:** Check with your local or state VA offices for other benefits you may be able to get—like help with buying a home or making changes to your home to make it more accessible, or help with getting a job. <br>
+- **For other benefits:** Check with your local or state VA offices for other benefits you may be able to get—like help with buying a home or making changes to your home to make it more accessible, or help with getting a job. <br>
 [Find your state's Veterans Affairs website](https://www.va.gov/statedva.htm).
 
 </div>
