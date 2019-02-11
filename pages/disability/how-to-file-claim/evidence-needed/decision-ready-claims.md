@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
-title: VA Decision Ready Claims (DRC) Program
-display_title: Decision Ready Claims
+title: VA decision ready claims (DRC) program
+display_title: Decision ready claims
 description: 
 concurrence: incomplete
 plainlanguage: 
@@ -11,16 +11,16 @@ relatedlinks:
   - heading: More information about filing disability claims
     links:
     - url: /disability/how-to-file-claim/evidence-needed/
-      title: How to Gather Evidence for Your Claim
+      title: How to gather evidence for your claim
       description: "Find out what evidence we’ll need—and what your options are for gathering documents to support your claim."
     - url: /disability/how-to-file-claim/
-      title: How to Apply for Disability Benefits
+      title: How to apply for disability benefits
       description: "File a claim online now, or find out how to file a claim in person, by mail, or with the help of a trained professional."
     - url: /disability/how-to-file-claim/when-to-file/pre-discharge-claim/
-      title: Pre-discharge Claim
+      title: Pre-discharge claim
       description: "If you have a disability and you’re in pre-discharge status right now, you can file a pre-discharge disability claim 180 to 90 days before you leave the military."
     - url: /disability/eligibility/illnesses-within-one-year-of-discharge/
-      title: Disabilities That Appear within 1 Year after Discharge
+      title: Disabilities that appear within 1 year after discharge
       description: "You may be able to get disability benefits if you have an illness that started within a year after you were discharged from service."
 aliases:
   - /disability-benefits/apply/evidence/decision-ready-claims/
