@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
-title: Board of Veterans' Appeals (BVA) Hearing
-display_title: Board of Veterans' Appeals Hearing
+title: Board of Veterans' Appeals (BVA) hearing
+display_title: Board of Veterans' Appeals hearing
 description: Find out what happens at a Board of Veterans’ Appeals (BVA) hearing—and how to request one if you want a Veterans Law Judge to discuss your VA appeal. Get answers to questions about scheduling and preparing for your Board hearing, and learn what to expect at the hearing.
 concurrence: complete
 plainlanguage: 11-4-16 certified in compliance with the Plain Writing Act
@@ -13,7 +13,7 @@ aliases:
 
 <div class="va-introtext">
   
-Find out what happens at a Board of Veterans’ Appeals hearing—and how to request one if you want a Veterans Law Judge to discuss your appeal.
+Find out what happens at a Board of Veterans’ Appeals hearing—and how to request one if you want a Veterans law judge to discuss your appeal.
 
 </div>
 
@@ -53,7 +53,7 @@ No. Board hearings are always optional.
 [Download VA Form 9](https://www.va.gov/vaforms/va/pdf/va9.pdf).
 
 Or you can contact your Veterans Service Organization at any time during the appeals process to get help with requesting a hearing.<br>
-[Find a Veterans Service Organization](https://www.va.gov/vso/).
+[Find a Veterans service organization](https://www.va.gov/vso/).
 
   ### How will I know when my hearing is scheduled?
 
