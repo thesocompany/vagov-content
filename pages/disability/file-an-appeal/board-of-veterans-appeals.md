@@ -2,7 +2,7 @@
 layout: page-breadcrumbs.html
 title: Board of Veterans' Appeals (BVA) hearing
 display_title: Board of Veterans' Appeals hearing
-description: Find out what happens at a Board of Veterans’ Appeals (BVA) hearing—and how to request one if you want a Veterans Law Judge to discuss your VA appeal. Get answers to questions about scheduling and preparing for your Board hearing, and learn what to expect at the hearing.
+description: Find out what happens at a Board of Veterans’ Appeals (BVA) hearing—and how to request one if you want a Veterans Law Judge to discuss your VA appeal. Get answers to questions about scheduling and preparing for your board hearing, and learn what to expect at the hearing.
 concurrence: complete
 plainlanguage: 11-4-16 certified in compliance with the Plain Writing Act
 template: detail-page
@@ -19,40 +19,40 @@ Find out what happens at a Board of Veterans’ Appeals hearing—and how to req
 
 <div class="feature" markdown=“1”>
   
-### Why might I want a Board hearing?
+### Why might I want a board hearing?
 
-You might want a Board hearing if you think it’ll help support your appeal to discuss your case with a judge.
+You might want a board hearing if you think it’ll help support your appeal to discuss your case with a judge.
 
-### Do I have to have a Board hearing?
+### Do I have to have a board hearing?
 
 No. Board hearings are always optional. 
 
 </div>
 
-**Learn more about Board hearings:**
+**Learn more about board hearings:**
 
-[Schedule your Board hearing](#scheduling)<br>
-[Prepare for your Board hearing](#preparing)<br>
-[Find out what to expect at your Board hearing](#expect)
+[Schedule your board hearing](#scheduling)<br>
+[Prepare for your board hearing](#preparing)<br>
+[Find out what to expect at your board hearing](#expect)
 
 <section id="scheduling">
 
-  ## Schedule your Board hearing
+  ## Schedule your board hearing
 
-  ### How do I request a Board hearing?
+  ### How do I request a board hearing?
 
-  You can request a Board hearing when you fill out your VA Form 9.<br>
+  You can request a board hearing when you fill out your VA Form 9.<br>
 
   **The form will ask you to choose 1 of these 4 options:**
--	**No hearing.** If you choose this option, you can send a letter to the Board that delivers the same message as what you would have said at a hearing.
+-	**No hearing.** If you choose this option, you can send a letter to the board that delivers the same message as what you would have said at a hearing.
 -	**A videoconference hearing at your local VA office.** This takes place at your local VA office (or another facility close to you). VA can usually schedule video hearings sooner than in-person hearings.<br>
 [Find out more about choosing a video hearing](https://www.bva.va.gov/docs/BVA-VideoHearing-508version.pdf).
 -	**An in-person hearing at your local VA office.** This can sometimes delay your hearing, because judges have to be scheduled to travel to your local VA office.
--	**An in-person hearing at the Board in Washington, DC.**
+-	**An in-person hearing at the board in Washington, DC.**
 
 [Download VA Form 9](https://www.va.gov/vaforms/va/pdf/va9.pdf).
 
-Or you can contact your Veterans Service Organization at any time during the appeals process to get help with requesting a hearing.<br>
+Or you can contact your Veterans service organization at any time during the appeals process to get help with requesting a hearing.<br>
 [Find a Veterans service organization](https://www.va.gov/vso/).
 
   ### How will I know when my hearing is scheduled?
@@ -73,8 +73,8 @@ Or you can contact your Veterans Service Organization at any time during the app
 
   **You’ll need to file a motion explaining why you have "good cause" for rescheduling any of these types of hearings:**
 
-  - An in-person hearing at the Board in Washington, DC, that’s less than 2 weeks away, **or**
-  - An in-person hearing at the Board in Washington, DC, if you’ve already rescheduled your hearing before, **or**
+  - An in-person hearing at the board in Washington, DC, that’s less than 2 weeks away, **or**
+  - An in-person hearing at the board in Washington, DC, if you’ve already rescheduled your hearing before, **or**
   - An in-person hearing at your local VA regional office (called a Travel Board hearing), **or**
   - A video hearing
 
@@ -97,7 +97,7 @@ Or you can contact your Veterans Service Organization at any time during the app
 
 <section id="preparing">
 
-  ## Prepare for your Board hearing
+  ## Prepare for your board hearing
 
   ### What new evidence should I bring to my hearing?
 
@@ -112,7 +112,7 @@ Or you can contact your Veterans Service Organization at any time during the app
 
 <section id="expect">
 
-  ## Find out what to expect at your Board hearing
+  ## Find out what to expect at your board hearing
 
   ### What will happen at my hearing?
 
@@ -131,7 +131,7 @@ Or you can contact your Veterans Service Organization at any time during the app
 
   ### Will the judge make a decision on my appeal at the hearing?
 
-  No. The Board reviews cases in the order they’re received. The judge will begin work on your appeal when it’s among the oldest appeals ready for their review.
+  No. The board reviews cases in the order they’re received. The judge will begin work on your appeal when it’s among the oldest appeals ready for their review.
 
-  The Board will create a transcript of your hearing and add this to your appeal file. The Board will ask if you’d like a copy of the transcript for your personal records. The judge will review the hearing transcript along with all the other evidence in your file when they make a decision on your appeal.
+  The board will create a transcript of your hearing and add this to your appeal file. The board will ask if you’d like a copy of the transcript for your personal records. The judge will review the hearing transcript along with all the other evidence in your file when they make a decision on your appeal.
 </section>
