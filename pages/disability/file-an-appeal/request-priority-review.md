@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
-title: Request a Priority Review
-display_title: Request a Priority Review
+title: Request a priority review
+display_title: Request a priority review
 description: Find out how to request a priority review to have your VA appeal moved to the front of the line (called "Advanced on the Board of Veterans' Appeals Docket"). You can request to have your appeal moved up due to age, serious illness, financial distress, or other reasons.
 order: 2
 plainlanguage: 11-02-16 certified in compliance with the Plain Writing Act
@@ -28,7 +28,7 @@ You can request to have your appeal Advanced on Docket, or moved to the front of
 **Note:** If you’re over 75 years old, your appeal will receive Advanced on Docket status automatically.
 </div>
 
-### How do I request to have my appeal Advanced on Docket?
+### How do I request to have my appeal advanced on docket?
 You or your representative will need to write a letter to the Board of Veterans’ Appeals.
 
 #### You’ll need to include all of this information:
