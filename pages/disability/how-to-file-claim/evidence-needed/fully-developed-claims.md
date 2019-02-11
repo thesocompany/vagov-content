@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
-title: VA Fully Developed Claims Program
-display_title: Fully Developed Claims
+title: VA fully developed claims program
+display_title: Fully developed claims
 description: Find out how to file a fully developed claim to get a faster decision on your VA disability compensation claim. Through the Fully Developed Claims program, you'll submit all the evidence (supporting documents) you have—or can easily get—along with your claim and go to any required medical exams.
 children: disabilityFullyDevelopedClaims
 plainlanguage: 
@@ -173,7 +173,7 @@ You'll need to submit new evidence we've haven't reviewed before that's related 
 - A completed Request for Employment Information in Connection with Claim for Disability Benefits (VA Form 21-4192), completed by your last employer<br>
   [Download VA Form 21-4192](https://www.vba.va.gov/pubs/forms/VBA-21-4192-ARE.pdf).<br>
   
- [Learn more about Individual Unemployability](/disability/eligibility/special-claims/unemployability/).<br>
+ [Learn more about individual unemployability](/disability/eligibility/special-claims/unemployability/).<br>
  </div>
 </li>
 <li>
@@ -208,7 +208,7 @@ If you didn’t have surgery, you'll need to show that one or more of your major
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="special-aid">Aid and Attendance Benefits and Housebound Allowance</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="special-aid">Aid and attendance benefits and housebound allowance</button>
 <div id="special-aid" class="usa-accordion-content">
 
 **You'll need to submit evidence that shows at least one of these is true. You:**
@@ -228,15 +228,15 @@ If you didn’t have surgery, you'll need to show that one or more of your major
 - If you're in a nursing home, a Request for Nursing Home Information in Connection with Claim for Aid and Attendance (VA Form 21-0779)<br>
 [Download VA Form 21-0779](https://www.vba.va.gov/pubs/forms/VBA-21-0779-ARE.pdf).<br> 
 
-[Learn more about Aid and Attendance benefits and Housebound allowance](/pension/aid-attendance-housebound/).<br>
+[Learn more about aid and attendance benefits and housebound allowance](/pension/aid-attendance-housebound/).<br>
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="special-home">Specially Adapted Housing or Special Home Adaptation</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="special-home">Specially adapted housing or special home adaptation</button>
 <div id="special-home" class="usa-accordion-content">
 
 **You'll need to submit both of these:** 
-- Evidence that shows you're a Veteran or Servicemember with a qualifying permanent and totally disabling service-connected disability<br>
+- Evidence that shows you're a Veteran or service member with a qualifying permanent and totally disabling service-connected disability<br>
 [Find out if you have a qualifying service-connected disability](/housing-assistance/disability-housing-grants/). <br> 
 **and** <br>
 - An Application in Acquiring Specially Adapted Housing or Special Home Adaptation Grant (VA Form 26-4555)<br>
@@ -246,7 +246,7 @@ If you didn’t have surgery, you'll need to show that one or more of your major
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="special-auto">Automobile Allowance and Adaptive Equipment</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="special-auto">Automobile allowance and adaptive equipment</button>
 <div id="special-auto" class="usa-accordion-content">
 
 **You'll need to submit evidence that shows at least one of these is true. You have:**
@@ -266,7 +266,7 @@ An Application for Automobile or Other Conveyance and Adaptive Equipment (VA For
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="special-disabled">Seriously Disabled Child</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="special-disabled">Seriously disabled child</button>
 <div id="special-disabled" class="usa-accordion-content">
 
 You'll need to submit medical evidence that shows the child became permanently disabled because of a physical or mental disability before their 18th birthday. <br>  
