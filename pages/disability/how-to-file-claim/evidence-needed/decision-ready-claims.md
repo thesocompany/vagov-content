@@ -80,7 +80,7 @@ You can't file your claim through the Decision Ready Claims program if any of th
 
 **None of these can be true. You can't file:**
 - A claim for a condition that's already been denied, **or**
-- A claim for a disability you got during an earlier period of active duty for training or inactive duty for training, unless you're a Servicemember filing a VA claim before discharge, **or**
+- A claim for a disability you got during an earlier period of active duty for training or inactive duty for training, unless you're a service member filing a VA claim before discharge, **or**
 - A claim for pension benefits, **or**
 - For Chapter 18 (Spina Bifida) or any other birth defects for dependent children, **or**
 - A restricted access claim (includes VBA employees, relatives of VBA employees, National Service Officers, or high-ranking government officials), **or**
