@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
-title: Types of VA Disability Claims and When to File
-display_title: When to File
+title: Types of VA disability claims and when to file
+display_title: When to file
 description: Learn about the different types of VA claims for disability compensation. Find out when you can first file a claim for service-connected benefits—and what to do if you want to request more benefits or have new evidence to support a claim we denied in the past.
 plainlanguage: 11-4-16 certified in compliance with the Plain Writing Act
 template: detail-page
@@ -11,13 +11,13 @@ relatedlinks:
   - heading: Programs to help speed up your claim decision
     links:
     - url: /disability/how-to-file-claim/when-to-file/pre-discharge-claim/
-      title: Pre-discharge Claim
+      title: Pre-discharge claim
       description: If you have 180 to 90 days left on active duty, find out how to file a disability claim through the Benefits Delivery at Discharge (BDD) program to get your benefits sooner.
     - url: /disability/how-to-file-claim/evidence-needed/fully-developed-claims/
-      title: Fully Developed Disability Claims
+      title: Fully developed disability claims
       description: Find out how to use the Fully Developed Claims program to get a faster decision on your disability benefits claim by submitting your evidence (supporting documents) along with your claim.
     - url: /disability/how-to-file-claim/evidence-needed/decision-ready-claims/
-      title: Decision Ready Claims Program
+      title: Decision ready claims program
       description: Find out if you can use the Decision Ready Claims program to get a decision on your claim in 30 days or less by working with an accredited Veterans Service Organization (VSO).      
 aliases:
   - /disability-benefits/apply/claim-types/
@@ -31,7 +31,7 @@ Find out when you can first file a claim for service-connected benefits—and wh
 
 <ul class="usa-accordion" aria-multiselectable="true">
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-active-duty">Original Claim—File your first claim for disability compensation.</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-active-duty">Original claim—file your first claim for disability compensation.</button>
 <div id="claim-active-duty" class="usa-accordion-content"> 
 
 We refer to the first claim you file for a disability as your original claim.
@@ -62,7 +62,7 @@ Learn more about disabilities that may be related to your active-duty service bu
 </li>
 
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-increased">Increased Claim—File a claim for more compensation for a disability that we’ve already determined to be service connected and that’s gotten worse.</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-increased">Increased claim—file a claim for more compensation for a disability that we’ve already determined to be service connected and that’s gotten worse.</button>
 <div id="claim-increased" class="usa-accordion-content">
 
 You can file a claim for increased disability compensation if you have a rated service-connected disability that’s gotten worse. You’ll need to submit up-to-date medical evidence that shows your disability has gotten worse. 
@@ -94,7 +94,7 @@ You can file a special claim to request compensation for special needs.
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-new-evidence">Reopened Claim—Provide new evidence to support a disability claim that was denied in the past.</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-new-evidence">Reopened claim—provide new evidence to support a disability claim that was denied in the past.</button>
 <div id="claim-new-evidence" class="usa-accordion-content">
 
 You can file a reopened claim if you meet all of the requirements listed below.
@@ -111,14 +111,14 @@ For example, you might file a reopened claim if you were treated for pain in you
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-more-benefits">New Claim—File a claim for added benefits or other benefit requests related to an existing service-connected disability.</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-more-benefits">New claim—file a claim for added benefits or other benefit requests related to an existing service-connected disability.</button>
 <div id="claim-more-benefits" class="usa-accordion-content">
 
 **You can file a new claim to request:**
 - More financial support
 - Special monthly payments
 - A shift to Individual Unemployability status (a status given to Veterans who are unable to work because of a disability)<br>
-[Learn more about Individual Unemployability](/disability/eligibility/special-claims/unemployability/).
+[Learn more about individual unemployability](/disability/eligibility/special-claims/unemployability/).
 
 Our decision on your new claim will be based only on new evidence (like a doctor's report or medical test results) that you give us to support your claim. We won't consider any evidence you may have given us related to past claims.
 
@@ -127,7 +127,7 @@ Our decision on your new claim will be based only on new evidence (like a doctor
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-secondary">Secondary Claim—File a claim for a new disability that’s linked to a service-connected disability you already have.</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-secondary">Secondary claim—file a claim for a new disability that’s linked to a service-connected disability you already have.</button>
 <div id="claim-secondary" class="usa-accordion-content">
 
 You can file a secondary claim to get more disability benefits for a new disability that's linked to a service-connected disability you already have.
