@@ -1,5 +1,5 @@
 ---
 href: /records/download-va-letters/
-title: Download VA Benefit Letters
+title: Download VA benefit letters
 private: true
 ---
