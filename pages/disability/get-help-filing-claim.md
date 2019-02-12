@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
-title: Get Help Filing Your Claim or Appeal
-display_title: Get Help Filing a Claim
+title: Get help filing your claim or appeal
+display_title: Get help filing a claim
 description: Get help filing your VA disability claim from an accredited Veterans service representative. We trust these professionals because they’re trained and certified in the VA claims and appeals processes. Find Veterans Service Organizations (VSOs) or accredited individuals near you.
 concurrence: incomplete
 plainlanguage: 11-2-16 certified in compliance with the Plain Writing Act
@@ -11,23 +11,23 @@ relatedlinks:
   - heading: More information about filing disability claims
     links:
     - url: /disability/how-to-file-claim/evidence-needed/fully-developed-claims/
-      title: Fully Developed Disability Claims
+      title: Fully developed disability claims
       description: Find out how to use the Fully Developed Claims program to get a faster decision on your claim by sending in all the evidence you have—or can easily get—when you file your claim.
     - url: /disability/how-to-file-claim/evidence-needed/decision-ready-claims/
-      title: Decision Ready Claims Program
+      title: Decision ready claims program
       description: Find out if you can use the DRC program to get a decision on your claim in 30 days or less by working with an accredited VSO.
     - url: /disability/how-to-file-claim/when-to-file/pre-discharge-claim/
-      title: Pre-discharge Claim
+      title: Pre-discharge claim
       description: If you have 90 to 180 days left on active duty, find out how to file a disability claim through the Benefits Delivery at Discharge (BDD) program to get your benefits sooner.
     - url: /disability/about-disability-ratings/
-      title: How VA Assigns Disability Ratings
+      title: How VA assigns disability ratings
       description: Find out how we assign ratings for service-connected disabilities.
     - url: /disability/eligibility/illnesses-within-one-year-of-discharge/
-      title: Disabilities That Appear Within 1 Year After Discharge
+      title: Disabilities that appear within 1 year after discharge
       description: Find out if you're eligible for disability compensation for a disability that appeared within a year after you were discharged from service.
 aliases:
   - /disability-benefits/apply/help/
-spoke: More Resources
+spoke: More resources
 ---
 <div itemscope itemtype="http://schema.org/FAQPage">
 <div itemprop="description" class="va-introtext">
@@ -49,7 +49,7 @@ VSOs work on behalf of Veterans and Servicemembers—as well as their dependents
   - Pass a background check
   - Take continuing-education courses to make sure they’re providing the most up-to-date information
 
-Recognized organizations and individuals can legally represent a Veteran, Servicemember, dependent, or survivor before VA. Non-recognized organizations and individuals can provide information, but can’t be representatives.
+Recognized organizations and individuals can legally represent a Veteran, service member, dependent, or survivor before VA. Non-recognized organizations and individuals can provide information, but can’t be representatives.
 
 </div>
 </div>
