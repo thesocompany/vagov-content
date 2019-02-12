@@ -1,28 +1,28 @@
 ---
 layout: page-breadcrumbs.html
-title: How to File a VA Disability Claim
-display_title: How to File a Claim
+title: How to file a VA disability claim
+display_title: How to file a claim
 description: Find out how to file a VA disability claim for a service-connected disability online, by mail, in person, or with the help of a trained professional. Learn how to prepare to apply for VA disability, what documents you'll need, and how to get help filing your claim.
 order: 2
 plainlanguage: 11-02-16 certified in compliance with the Plain Writing Act
 template: detail-page
 collection: disability
 children: disabilityApply
-spoke: Get Benefits
+spoke: Get benefits
 majorlinks:
   - heading: More information about filing disability claims
     links:
     - url: /disability/how-to-file-claim/when-to-file/
-      title: Claim Types and When to File
+      title: Claim types and when to file
       description: Learn about standard claims, reopened claims, secondary claims, and more.
     - url: /disability/how-to-file-claim/evidence-needed/
-      title: How to Gather Evidence for Your Claim
+      title: How to gather evidence for your claim
       description: Find out your options for gathering documents to support your disability claim.
     - url: /disability/eligibility/illnesses-within-one-year-of-discharge/
-      title: Disabilities That Appear within 1 Year after Discharge
+      title: Disabilities that appear within 1 year after discharge
       description: Find out if you can get disability benefits if you have signs of an illness within a year after being discharged from service.
     - url: /disability/get-help-filing-claim/
-      title: Get Help Filing a Claim
+      title: Get help filing a claim
       description: Find out how to work with a trained professional called an accredited representative to file your claim.
 relatedlinks:
   - heading: Other VA benefits you may want to explore
@@ -119,7 +119,7 @@ If you have a power of attorney and need to update their information, please cal
 
 You don’t need to do anything while you’re waiting unless we send you a letter asking for more information. If we schedule exams for you, be sure not to miss them.
 
-<a class="usa-button-primary" href="/track-claims">Track the Status of Your Claim</a>
+<a class="usa-button-primary" href="/track-claims">Track the status of your claim</a>
 
 <span id="days-to-complete-claim"></span>
 #### How long does it take VA to make a decision?
