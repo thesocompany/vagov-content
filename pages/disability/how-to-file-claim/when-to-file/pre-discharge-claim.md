@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: Pre-discharge Claim
+title: Pre-discharge claim
 description: If you're on active duty and believe you have a service-connected disability, find out how to file a pre-discharge claim for VA disability benefits. You can file through the Benefits Delivery at Discharge (BDD) program 80 to 90 days before discharge. This may help you get your benefits sooner.
 source: http://www.benefits.va.gov/predischarge/index.asp
 plainlanguage: 11-8-16 certified in compliance with the Plain Writing Act
@@ -37,7 +37,7 @@ You can use the BDD program if you meet all of the requirements listed below.
 
 **All of these must be true:**
 
-* You’re a Servicemember on full-time active duty (including a member of the National Guard, Reserves, or Coast Guard), **and**
+* You’re a service member on full-time active duty (including a member of the National Guard, Reserves, or Coast Guard), **and**
 * You have a known separation date, **and**
 * Your separation date is in the next 180 to 90 days
 
@@ -120,7 +120,7 @@ If you have less than 90 days left on active duty, you have a few options for fi
 
 ### Go through the Decision Ready Claim (DRC) program
 
-This is the fastest way to get your claim processed. You'll work with an accredited Veterans Service Organization (VSO) to file your claim. A VSO is a private nonprofit group that serves as an advocate for Veterans and Servicemembers as well as their dependents and survivors. With your VSO's help, you can get a decision within 30 days.
+This is the fastest way to get your claim processed. You'll work with an accredited Veterans Service Organization (VSO) to file your claim. A VSO is a private nonprofit group that serves as an advocate for Veterans and service members as well as their dependents and survivors. With your VSO's help, you can get a decision within 30 days.
 
 **To file a claim through the DRC program, you'll need to:**
 
