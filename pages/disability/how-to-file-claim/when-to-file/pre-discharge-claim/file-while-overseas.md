@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
-title: File a Pre-discharge Claim While Overseas
-display_title: File While Overseas
+title: File a pre-discharge claim while overseas
+display_title: File while overseas
 concurrence: incomplete
 source: http://www.benefits.va.gov/COMPENSATION/claims-special-1151.asp,http://www.benefits.va.gov/PREDISCHARGE/claims-pre-discharge-overseas-intake-sites.asp
 plainlanguage: 11-8-16 certified in compliance with the Plain Writing Act
