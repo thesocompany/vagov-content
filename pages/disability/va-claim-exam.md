@@ -10,17 +10,17 @@ majorlinks:
   - heading: More information about what happens after you file your claim
     links:
     - url: /disability/about-disability-ratings/
-      title: How VA Assigns Disability Ratings
+      title: How VA assigns disability ratings
       description: "Learn how we assign severity ratings and how they affect your disability payments."
     - url: /track-claims/
-      title: Check Claim and Appeal Status
+      title: Check claim and appeal status
       description: "Track the status of your disability claims and appeals."
     - url: /disability/file-an-appeal/
-      title: Appeals Process
+      title: Appeals process
       description: "Find out what to do if you disagree with your disability rating decision."
 aliases:
   - /disability-benefits/after-you-apply/VA-claim-exam/
-spoke: More Resources
+spoke: More resources
 ---
 
 <div class="va-introtext">
