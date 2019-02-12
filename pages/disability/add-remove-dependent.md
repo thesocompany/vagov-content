@@ -1,24 +1,24 @@
 ---
 layout: page-breadcrumbs.html
-title: Add Dependents to Your VA Disability Benefits
-display_title: Add or Remove a Dependent
+title: Add dependents to your VA disability benefits
+display_title: Add or remove a dependent
 description: Find out about adding dependents to your VA disability benefits for additional compensation. Learn about VA disability dependent eligibility for a child, spouse, or parent, when to add or remove a dependent, and how to get back pay for dependents if you file late.
 concurrence: Incomplete
 plainlanguage: Certified plain language 4.20.18 
 template: detail-page
-spoke: Manage Benefits
+spoke: Manage benefits
 order: 4
 relatedlinks:
   - heading: More VA benefits for you and your dependents
     links:
     - url: /pension/
-      title: Pension Benefits
+      title: Pension benefits
       description: Apply for monthly pension benefits for wartime Veterans and survivors.
     - url: /life-insurance/
-      title: Life Insurance
+      title: Life insurance
       description: Explore your VA life insurance options, manage your policy, and file claims.  
     - url: /education/survivor-dependent-benefits/
-      title: Transfer Your Post-9/11 GI Bill Benefits to Your Spouse and Dependents
+      title: Transfer your Post-9/11 GI Bill benefits to your spouse and dependents
       description: If you have unused Post-9/11 GI Bill benefits, find out if you can transfer your benefits to your spouse or dependent children.     
 ---
 <div itemscope itemtype="http://schema.org/FAQPage">
@@ -95,7 +95,7 @@ You can file a claim for additional compensation for a child or spouse online ri
 
 **Note:** You may need to provide more information or forms along with your claim.
  
-<a class="usa-button-primary va-button-primary" href="https://www.ebenefits.va.gov/ebenefits/about/feature?feature=dependent-compensation">Go to eBenefits to Add a Dependent Child or Spouse</a>	
+<a class="usa-button-primary va-button-primary" href="https://www.ebenefits.va.gov/ebenefits/about/feature?feature=dependent-compensation">Go to eBenefits to add a dependent child or spouse</a>	
 
 **If you’re claiming your child who became permanently disabled before they turned 18,** you’ll need to turn in all private medical records relating to the child’s disabilities with your application. 
 
@@ -251,9 +251,9 @@ You’ll need to update your child’s school information in eBenefits.
 
 Sign in to your account. 
 
-Click “Add or Remove Dependents” (you'll find it under the “Apply” section on the homepage). 
+Click “Add or remove dependents” (you'll find it under the “Apply” section on the homepage). 
 
-Then select “Update Dependents.” <br>
+Then select “Update dependents.” <br>
 <br>
 [Go to eBenefits](https://www.ebenefits.va.gov/ebenefits/homepage).
 
