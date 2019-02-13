@@ -13,7 +13,7 @@ aliases:
 
 <div class="va-introtext">
   
-Find out what happens at a Board of Veterans’ Appeals hearing—and how to request one if you want a Veterans law judge to discuss your appeal.
+Find out what happens at a Board of Veterans’ Appeals hearing—and how to request one if you want a Veterans Law Judge to discuss your appeal.
 
 </div>
 
