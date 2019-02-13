@@ -1,5 +1,5 @@
 ---
-title: Veteran ID card
+title: Veteran ID Card
 layout: page-react.html
 entryname: veteran-id-card
 hideFromSidebar: true
