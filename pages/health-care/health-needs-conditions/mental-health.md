@@ -15,7 +15,7 @@ aliases:
 
 <div class="va-introtext">
 
-Find out how to access VA mental health services for posttraumatic stress disorder (PTSD), psychological effects of military sexual trauma (MST), depression, grief, anxiety, and other needs. You can use some services even if you're not enrolled in VA health care.
+Find out how to access VA mental health services for posttraumatic stress disorder (PTSD), psychological effects of military sexual trauma (MST), depression, grief, anxiety, and other needs. And find out how to get free mental health care for a year after separation—no matter your discharge status, service history, or eligibility for VA health care.
 
 </div>
 
@@ -50,6 +50,18 @@ Find out how to access VA mental health services for posttraumatic stress disord
 If you need support for a specific mental health problem—or if you're having problems sleeping, controlling your anger, or readjusting to civilian life—you are not alone. And we can help.
 
 Over 1.7 million Veterans received mental health services at VA last year. Our services range from peer support with other Veterans to counseling, therapy, medication, or a combination of these options. Our goal is to help you take charge of your treatment and live a full and meaningful life.
+
+### How can I get free mental health care after separation?
+
+If you're within a year of separation, you can get free mental health services wherever and whenever you need help. You don't have to be enrolled in VA health care. And you can access services no matter where you served, how long you served, your discharge status, or your service branch.  
+
+</b>To access free VA mental health services right away:</b>
+
+- Call or walk in to any VA medical center or emergency room—anytime, day or night. <br>
+[Find your nearest VA health facility](/find-locations/).
+- Call or walk in to any Vet Center during clinical hours <br>
+[Find your nearest Vet Center](/find-locations/).
+- Call us at 1-877-222-VETS(1-877-222-8387). We're here Monday through Friday, 8:00 a.m. to 8:00 p.m. (ET). If you have hearing loss, call TTY: 1-800-877-8339.
 
 ### How do I schedule my first appointment?
 
