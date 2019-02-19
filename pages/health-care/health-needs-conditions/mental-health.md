@@ -15,7 +15,7 @@ aliases:
 
 <div class="va-introtext">
 
-Find out how to access VA mental health services for posttraumatic stress disorder (PTSD), psychological effects of military sexual trauma (MST), depression, grief, anxiety, and other needs. And find out how to get free mental health care for a year after separation—no matter your discharge status, service history, or eligibility for VA health care.
+Find out how to access VA mental health services for posttraumatic stress disorder (PTSD), psychological effects of military sexual trauma (MST), depression, grief, anxiety, and other needs. And learn how to get free mental health care for a year after separation—no matter your discharge status, service history, or eligibility for VA health care.
 
 </div>
 
@@ -31,7 +31,7 @@ Find out how to access VA mental health services for posttraumatic stress disord
               <li>Call <a href="tel:+1-800-273-8255">1-800-273-8255</a>, then press 1.</li>
 	      <li><a href="https://www.veteranscrisisline.net/ChatTermsOfService.aspx?account=Veterans%20Chat/" class="no-external-icon">Start a confidential Veterans Chat</a>.</li>
   	      <li>Text <a href="sms:838255">838255</a>.</li>
-		    <li>If you have hearing loss, call TTY: <a href="tel:+18007994889">1-800-799-4889</a>.</li>
+		    <li>If you have hearing loss, call TTY: 1-800-799-4889.</li>
             </ul>
      	    <p><strong>You can also:</strong></p>
             <ul>
@@ -47,7 +47,7 @@ Find out how to access VA mental health services for posttraumatic stress disord
 
 ## Getting Started
 
-If you need support for a specific mental health problem—or if you're having problems sleeping, controlling your anger, or readjusting to civilian life—you are not alone. And we can help.
+If you need support for a specific mental health problem—or if you're having problems sleeping, controlling your anger, or readjusting to civilian life—you are not alone. And we can help. 
 
 Over 1.7 million Veterans received mental health services at VA last year. Our services range from peer support with other Veterans to counseling, therapy, medication, or a combination of these options. Our goal is to help you take charge of your treatment and live a full and meaningful life.
 
@@ -55,26 +55,26 @@ Over 1.7 million Veterans received mental health services at VA last year. Our s
 
 If you're within a year of separation, you can get free mental health services wherever and whenever you need help. You don't have to be enrolled in VA health care. And you can access services no matter where you served, how long you served, your discharge status, or your service branch.  
 
-</b>To access free VA mental health services right away:</b>
+</b>You can start accessing free mental health services in any of these ways:</b>
 
 - Call or walk in to any VA medical center or emergency room—anytime, day or night. <br>
-[Find your nearest VA health facility](/find-locations/).
+[Find your nearest VA health facility](/find-locations/?zoomLevel=4&page=1&facilityType=health).
 - Call or walk in to any Vet Center during clinical hours <br>
-[Find your nearest Vet Center](/find-locations/).
-- Call us at 1-877-222-VETS(1-877-222-8387). We're here Monday through Friday, 8:00 a.m. to 8:00 p.m. (ET). If you have hearing loss, call TTY: 1-800-877-8339.
+[Find your nearest Vet Center](/find-locations/?zoomLevel=4&page=1&facilityType=health).
+- Call us at 1-877-222-VETS (<a href="tel:+18002228387">1-877-222-8387</a>). We're here Monday through Friday, 8:00 a.m. to 8:00 p.m. (ET). If you have hearing loss, call TTY: 1-800-877-8339.
+- Call our Veterans Crisis Line anytime 24/7 at <a href="tel:+1-800-273-8255">1-800-273-8255</a>, then press 1. If you have hearing loss, call TTY: 1-800-799-4889. <br>
+<a href="https://www.veteranscrisisline.net/ChatTermsOfService.aspx?account=Veterans%20Chat/" class="no-external-icon">Or start a confidential Veterans live chat</a>
+<a href="https://livechat.militaryonesourceconnect.org/chat/">Or start a live Veterans Crisis Line chat</a>.
+- Call the Department of Defense's (DoD) Military OneSource hotline anytime 24/7 at <a href="tel:+1-800-342-9647">1-800-342-9647</a>. If you have hearing loss, call TTY: 711 and give the toll-free number 800-342-9647. <br>
+<a href="https://livechat.militaryonesourceconnect.org/chat/">Or start a Military OneSource live chat</a>.
 
-### How do I schedule my first appointment?
 
-**If you're already using VA medical services,** ask your primary care provider to help you make an appointment with a VA mental health provider.
+<b>Note:</b> These free services are the result of the Mental Health Executive Order, signed into law in January of 2018. We're partnering with DoD, the Department of Homeland Security, Veterans Service Organizations, Congress, and community organizations to make sure you get the support you need as you transition to civilian life. <br>
+<a href="https://www.whitehouse.gov/presidential-actions/presidential-executive-order-supporting-veteranstransition-uniformed-service-civilian-life/">Learn more about our commitment to supporting transitioning service members</a>.
 
-**If you're not already using VA medical services,** contact your nearest VA medical center or Vet Center to talk about your needs. <br>
-[Find your nearest VA medical center or Vet Center](/find-locations/?zoomLevel=4&page=1&facilityType=health).
+### How do I schedule my first appointment if I'm enrolled in VA health care?
 
-### What if I'm not sure what kind of help I need?
-
-You can call 1-877-222-VETS (<a href="tel:+18002228387">1-877-222-8387</a>) to find the right resources for your needs. If you have hearing loss, call TTY: <a href="tel:+18008778339">1-800-877-8339</a>.
-
-We're here Monday through Friday, 8:00 a.m. to 8:00 p.m. (ET)
+Ask your primary care provider to help you make an appointment with a VA mental health provider.
 
 ### It's hard for me to get to a VA facility in person. Can I get mental health services online?
 
@@ -88,9 +88,9 @@ Yes. You may be able to use one or more of the care options listed below.
 
 - **The VA TeleMental Health program:** You can connect with a VA mental health provider through a computer or mobile device in your home or at your nearest VA health facility. If you're enrolled in VA health care, ask any of your providers to help connect you with our telemental health program.
 
-### Can I speak to a fellow Veteran who's been through this before?
+### Can I talk with a fellow Veteran who's been through this before?
 
-Yes. The **BeThere** peer assistance program, in partnership with Military OneSource, offers support to Servicemembers (including National Guard Soldiers and Reservists), their families, and transitioning Veterans up to 365 days after separation or retirement. Through this program, you can talk privately with peer coaches who are Veterans, Servicemembers, or military spouses.
+Yes. The **BeThere** peer assistance program, in partnership with Military OneSource, offers support to service members (including National Guard Soldiers and Reservists), their families, and transitioning Veterans up to 365 days after separation or retirement. Through this program, you can talk privately with peer coaches who are Veterans, service members, or military spouses.
 
 To talk with a peer coach, call Military OneSource's free, confidential peer support services at <a href="tel:+1800-342-9647">1-800-342-9647</a>. This service is available 24 hours a day, 365 days a year.
 
@@ -132,7 +132,9 @@ Being diagnosed with a mental health condition or seeking mental health care doe
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="questions-enrolled">Do I need to be enrolled in VA health care to access mental health care?</button>
 <div id="questions-enrolled" class="usa-accordion-content">
 
-No. If you don’t qualify for VA health care, you may still be able to get certain health care services, like care for needs linked to military sexual trauma.<br>
+No. You can get free mental health care for at least a year after separation, without needing to enroll in VA health care.
+
+And at any time, you may still be able to get certain health care services, like care for needs linked to military sexual trauma, even if you don't qualify for VA health care.<br>
 
 Call our general VA hotline at <a href="tel:+1-800-827-1000">1-800-827-1000</a> to find out what your care options may be. We're here Monday through Friday, 8:00 a.m. to 9:00 p.m. (ET)
 
