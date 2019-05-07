@@ -1,10 +1,10 @@
 ---
-title: Find VA Locations
+title: Veteran Wizard
 layout: page-react.html
-description: Find a VA medical center, clinic, hospital, national cemetery, or VA benefit office near you. You can search by city, state, zip code, or service. You'll get wait times and directions.
-keywords: VA location by zip code, VA clinic, VA near me
-entryname: facilities
+description: This is a wizard to determine if you are a veteran or not
+keywords: Am I a veteran, veteran wizard, veteran status
+entryname: veteran-wizard
 aliases:
-  - /facilities/
+  - /amiaveteran/
 ---
 
